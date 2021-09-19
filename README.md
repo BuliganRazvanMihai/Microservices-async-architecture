@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+All the other microservices are in my local computer.(i don t want to spam github with little repos)
 
 ## Available Scripts
 
